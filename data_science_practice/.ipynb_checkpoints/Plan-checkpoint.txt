@@ -1,0 +1,22 @@
+- Feature engineer
+- Dimension reduce
+- KNN (K- Nearest Neighbors)
+- K_means
+- Naive Bayes(Bayes optimal classifier,  Bayesian parameter averaging, Bayesian model combination)
+- statistics 
+- pro
+- optimization
+- cross validation
+- evaluation #xem course tren udemy de biet con thieu phan nao, 2 khoa....buoi toi van phai tap trung hoc kien thuc co ban
+- XGboost
+- likelihood
+- Reinforcement Learning
+____
+- cloud
+- bigdata
+- visulyzation
+- commandline
+- git
+- data structure and algorithm
+- kaggle
+- map reduce
