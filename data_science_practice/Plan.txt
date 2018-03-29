@@ -22,3 +22,4 @@ ____
 - map reduce
 _____
 * ID3 vs C4.5 in decision tree.
+---DU HOC.
