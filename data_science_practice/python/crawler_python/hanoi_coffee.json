@@ -1,0 +1,307 @@
+[
+    {
+        "name": "Baron Coffee",
+        "id": "168286423715598",
+        "location": {
+            "longitude": 105.85098,
+            "latitude": 21.02487,
+            "city": "Hanoi",
+            "zip": "10000",
+            "street": "42B Hai B\u00e0 Tr\u01b0ng",
+            "country": "Vietnam"
+        }
+    },
+    {
+        "name": "Coffee Club",
+        "website": "http://coffeeclub.com.vn",
+        "id": "324340164381797",
+        "location": {
+            "longitude": 105.85136,
+            "latitude": 21.0321,
+            "city": "Hanoi",
+            "zip": "+84",
+            "street": "4th Floor, 3B Le Thai To Str, Hoan Kiem Dist, Hanoi",
+            "country": "Vietnam"
+        }
+    },
+    {
+        "name": "The Coffee House",
+        "website": "http://www.thecoffeehouse.vn",
+        "id": "947097372034159",
+        "location": {
+            "longitude": 105.85053,
+            "latitude": 21.02225,
+            "city": "Hanoi",
+            "zip": "100000",
+            "street": "56A B\u00e0 Tri\u1ec7u, Qu\u1eadn Ho\u00e0n Ki\u1ebfm",
+            "country": "Vietnam"
+        }
+    },
+    {
+        "name": "Highland Coffee",
+        "website": "http://www.highlandscoffee.com.vn",
+        "id": "561846173850320",
+        "location": {
+            "longitude": 105.85734044993,
+            "latitude": 21.024006823325,
+            "country": "Vietnam",
+            "city": "Hanoi"
+        }
+    },
+    {
+        "name": "Highlands Coffee, Hoankiem Lake",
+        "website": "http://highlandscoffee.com.vn/",
+        "id": "1081245508608850",
+        "location": {
+            "longitude": 105.85158769257,
+            "latitude": 21.032083650174,
+            "country": "Vietnam",
+            "city": "Hanoi"
+        }
+    },
+    {
+        "name": "The Coffee House",
+        "website": "http://www.thecoffeehouse.vn",
+        "id": "818073898306407",
+        "location": {
+            "longitude": 105.85307,
+            "latitude": 21.02417,
+            "city": "Hanoi",
+            "zip": "100000",
+            "street": "23M Hai B\u00e0 Tr\u01b0ng, Qu\u1eadn Ho\u00e0n Ki\u1ebfm",
+            "country": "Vietnam"
+        }
+    },
+    {
+        "name": "Starbucks Coffee",
+        "website": "http://www.starbucks.com/",
+        "id": "282311585288554",
+        "location": {
+            "longitude": 105.8525058486,
+            "latitude": 21.02269410519,
+            "country": "Vietnam",
+            "city": "Hanoi",
+            "street": "12 L\u00fd \u0110\u1ea1o Th\u00e0nh"
+        }
+    },
+    {
+        "name": "Highlands Coffee",
+        "website": "http://savina.com.vn",
+        "id": "1908707039410117",
+        "location": {
+            "longitude": 105.85449,
+            "latitude": 21.02515,
+            "country": "Vietnam",
+            "city": "Hanoi"
+        }
+    },
+    {
+        "name": "A Little Hoian - Coffee & Tea",
+        "id": "602122319859750",
+        "location": {
+            "longitude": 105.84949493408,
+            "latitude": 21.031154308065,
+            "city": "Hanoi",
+            "zip": "10000",
+            "street": "T\u1ea7ng 2, 19 H\u00e0ng Tr\u1ed1ng, Ho\u00e0n Ki\u1ebfm",
+            "country": "Vietnam"
+        }
+    },
+    {
+        "name": "Tonkin Coffee - \u1ea4u Tri\u1ec7u",
+        "id": "1927987060770978",
+        "location": {
+            "longitude": 105.84902822971,
+            "latitude": 21.028981224007,
+            "city": "Hanoi",
+            "zip": "100000",
+            "street": "18 \u1ea4u Tri\u1ec7u - Ho\u00e0n Ki\u1ebfm",
+            "country": "Vietnam"
+        }
+    },
+    {
+        "name": "Hanoi Time Coffee",
+        "id": "1580767418886963",
+        "location": {
+            "longitude": 105.85277583891,
+            "latitude": 21.031640301087,
+            "city": "Hanoi",
+            "zip": "04",
+            "street": "Ha Noi time Coffee 39 \u0110inh Ti\u00ean Ho\u00e0ng",
+            "country": "Vietnam"
+        }
+    },
+    {
+        "name": "M\u00ec H\u00e0n Qu\u1ed1c - H\u00e0m C\u00e1 M\u1eadp",
+        "website": "http://cityviewcafe.com.vn/cityview",
+        "id": "458635657529697",
+        "location": {
+            "longitude": 105.85159797671,
+            "latitude": 21.031922975966,
+            "country": "Vietnam",
+            "city": "Hanoi"
+        }
+    },
+    {
+        "name": "Coffee Zone",
+        "website": "http://www.CoffeeZone.com.vn",
+        "id": "124323554440886",
+        "location": {
+            "longitude": 105.85454046796,
+            "latitude": 21.032415790151,
+            "city": "Hanoi",
+            "zip": "10000",
+            "street": "92 Nguy\u1ec5n H\u1eefu Hu\u00e2n",
+            "country": "Vietnam"
+        }
+    },
+    {
+        "name": "Lion Coffee - 61 B\u00e0 Tri\u1ec7u",
+        "website": "http://lioncoffee.com.vn",
+        "id": "933232936823064",
+        "location": {
+            "longitude": 105.84956,
+            "latitude": 21.01941,
+            "city": "Hanoi",
+            "zip": "0084",
+            "street": "61 B\u00e0 Tri\u1ec7u",
+            "country": "Vietnam"
+        }
+    },
+    {
+        "name": "Eden coffee s\u1ed1 2 Nh\u00e0 Th\u1edd",
+        "id": "554312868087395",
+        "location": {
+            "longitude": 105.8492025733,
+            "latitude": 21.028663270111,
+            "city": "Hanoi",
+            "zip": "100000",
+            "street": "s\u1ed1 2 ph\u1ed1 Nh\u00e0 Th\u1edd",
+            "country": "Vietnam"
+        }
+    },
+    {
+        "name": "Drew Coffee",
+        "website": "www.drewcoffee.vn",
+        "id": "1804965883049880",
+        "location": {
+            "longitude": 105.8544299,
+            "latitude": 21.03328,
+            "city": "Hanoi",
+            "zip": "100000",
+            "street": "58 Nguyen Huu Huan",
+            "country": "Vietnam",
+            "located_in": "177390718999266"
+        }
+    },
+    {
+        "name": "Gemini Coffee - 2C Quang Trung",
+        "website": "geminicoffee.vn",
+        "id": "1149660818499649",
+        "location": {
+            "longitude": 105.85011720657,
+            "latitude": 21.026657891718,
+            "country": "Vietnam",
+            "city": "Hanoi",
+            "street": "2C Quang Trung"
+        }
+    },
+    {
+        "name": "IFEEL coffee",
+        "id": "175087535966290",
+        "location": {
+            "longitude": 105.85226,
+            "latitude": 21.03186,
+            "city": "Hanoi",
+            "zip": "100000",
+            "street": "63 C\u1ea7u G\u1ed7 ho\u1eb7c 19-21 \u0110inh Ti\u00ean Ho\u00e0ng",
+            "country": "Vietnam"
+        }
+    },
+    {
+        "name": "The Note Coffee",
+        "website": "http://williamtien.wix.com/thenote",
+        "id": "131322520356933",
+        "location": {
+            "longitude": 105.85091,
+            "latitude": 21.03166,
+            "city": "Hanoi",
+            "zip": "100",
+            "street": "64 L\u01b0\u01a1ng V\u0103n Can, P. H\u00e0ng Tr\u1ed1ng, Q.Ho\u00e0n Ki\u1ebfm",
+            "country": "Vietnam"
+        }
+    },
+    {
+        "name": "Gemax Coffee",
+        "id": "472786526211568",
+        "location": {
+            "longitude": 105.85767498469,
+            "latitude": 21.024914115748,
+            "city": "Ha Loi",
+            "zip": "100000",
+            "street": "S\u1ed1 2 C\u1ed5 T\u00e2n - Qu\u1eadn Ho\u00e0n Ki\u1ebfm - H\u00e0 N\u1ed9i.",
+            "country": "Vietnam"
+        }
+    },
+    {
+        "name": "Y Restaurant & Coffee - S\u1ed1 2 L\u00fd Th\u01b0\u1eddng Ki\u1ec7t",
+        "website": "https://twitter.com/Ycoffee2ltk",
+        "id": "767446079965292",
+        "location": {
+            "longitude": 105.8573477,
+            "latitude": 21.0214796,
+            "city": "Hanoi",
+            "zip": "10000",
+            "street": "2 L\u00fd Th\u01b0\u1eddng Ki\u1ec7t, Phan Chu Trinh, Ho\u00e0n Ki\u1ebfm",
+            "country": "Vietnam"
+        }
+    },
+    {
+        "name": "G\u1ea4U Coffee&Bakery",
+        "id": "591986174197077",
+        "location": {
+            "longitude": 105.85383,
+            "latitude": 21.03292,
+            "city": "Hanoi",
+            "zip": "02",
+            "street": "33 H\u00e0ng B\u00e8",
+            "country": "Vietnam"
+        }
+    },
+    {
+        "name": "Gardenista",
+        "id": "498207010216812",
+        "location": {
+            "longitude": 105.8548861742,
+            "latitude": 21.027113548104,
+            "city": "Hanoi",
+            "zip": "100000",
+            "street": "S\u1ed1 2 L\u00ea Th\u1ea1ch",
+            "country": "Vietnam"
+        }
+    },
+    {
+        "name": "Conifer Coffee & Fastfood - 100 Cau Go",
+        "id": "177242522816285",
+        "location": {
+            "longitude": 105.85183382034,
+            "latitude": 21.032335971809,
+            "city": "Hanoi",
+            "zip": "10000",
+            "street": "100 Cau Go, Hoan Kiem",
+            "country": "Vietnam"
+        }
+    },
+    {
+        "name": "Tranquil Books & Coffee",
+        "website": "http://cafetranquil.tumblr.com",
+        "id": "1577260969205379",
+        "location": {
+            "longitude": 105.84567546844,
+            "latitude": 21.032436112373,
+            "country": "Vietnam",
+            "city": "Hanoi",
+            "street": "5 Nguyen Quang Bich str., Hoan Kiem dist."
+        }
+    }
+]
